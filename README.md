@@ -22,7 +22,9 @@ Details in "instruction.pdf"
 **Testing**
 -
 Details in "testcase.pdf"
+
 Output for Search Test (detecting similar images) in [ /output_search/out.txt ]
+
 Ouptut for Filter Test (grey-scale imagas) in [ /output_filter/ ]
 
 **Code Structure**
